@@ -36,6 +36,8 @@ https://amenahayat.wordpress.com/2019/02/08/evocative-object-my-encyclopedias/
 
 
 # Second week assignment
+* Tianyi Xie, Yihan Tang & Chunhan Chen
+http://chunhan-creations.hosting.nyu.edu/itp-courses/hacking-smart-toys-week-2-persona-ballsona-with-sphero/
 
 
 
